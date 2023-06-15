@@ -1,6 +1,6 @@
 # Cloud Computing Deploy 
 
-- To build a Docker container locally, you can run the following command: docker build -t gcr.io/capstone-389113/flask-app-deploy .
+- To build a Docker container locally,  run the following command: docker build -t gcr.io/capstone-389113/flask-app-deploy .
 
 - To test the container locally on localhost port 8080: docker run -p 8080:8080 gcr.io/capstone-389113/flask-app-deploy. This will ensure that the application runs correctly on localhost.
 
