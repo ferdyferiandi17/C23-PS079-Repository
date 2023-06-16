@@ -12,5 +12,4 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="Machine Learning/Assets/ArchitectureMobieNet.jpg" alt="MobileNet" height="150">
-  </a>
+![Contoh Gambar](https://drive.google.com/file/d/18QDrM0nN0tx46O0frSok2TjZYgwik5yl/view?usp=sharing)
