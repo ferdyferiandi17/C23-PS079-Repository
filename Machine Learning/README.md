@@ -9,7 +9,4 @@
 
 ## Model Machine Learning
 - Architecture of Mobile Net
-<br />
-<p align="center">
-  <a href="#">
-![Contoh Gambar](https://drive.google.com/file/d/18QDrM0nN0tx46O0frSok2TjZYgwik5yl/view?usp=sharing)
+![Contoh Gambar](https://drive.google.com/file/d/18QDrM0nN0tx46O0frSok2TjZYgwik5yl)
