@@ -9,4 +9,9 @@
 
 ## Model Machine Learning
 - Architecture of Mobile Net
-![Contoh Gambar](https://drive.google.com/file/d/18QDrM0nN0tx46O0frSok2TjZYgwik5yl)
+  <br><br>
+![Contoh Gambar]( https://drive.google.com/uc?export=view&id=18QDrM0nN0tx46O0frSok2TjZYgwik5yl)
+![Contoh Gambar](https://drive.google.com/uc?id=17fyRxV0lMtrUvqe3Lw06yggu_G3503Bt)
+![Contoh Gambar](https://drive.google.com/uc?id=1xI5gKYc91lxVhq59UR8RPttYsgdfR8NZ)
+![Contoh Gambar](https://drive.google.com/uc?export=view&id=1e38-1kmkxCaHNcqNK155h627XqWarFqN)
+
