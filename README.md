@@ -31,3 +31,16 @@ The Cloud Computing team will set up a cloud service to deploy a machine learnin
 
 - Mobile Development
 The skin care recommendation app is a mobile application designed to provide personalized skin care recommendations to users based on their specific skin type, concerns, and preferences. The scope of this project involves the development of the mobile app, including its features, functionality, and user interface.
+<br><br>
+# Example App
+- <div style="display:flex;">
+  <img src="https://github.com/Diksfaa/app/blob/main/web/1.jpeg?raw=true " alt="Gambar 1" style="flex:1; object-fit:cover; height:250px; margin-right: 50px;">
+  <img src="https://github.com/Diksfaa/app/blob/main/web/2.jpeg?raw=true " alt="Gambar 2" style="flex:1; object-fit:cover; height:250px; margin-right: 50px;">
+  <img src="https://github.com/Diksfaa/app/blob/a18b92aa9ab713164a7ae09f8168ac8d56b14d0b/web/images/5.jpeg?raw=true" alt="Gambar 3" style="flex:1; object-fit:cover; height:250px; margin-right: 50px;">
+  <img src="https://github.com/Diksfaa/app/blob/a18b92aa9ab713164a7ae09f8168ac8d56b14d0b/web/images/6.jpeg?raw=true" alt="Gambar 4" style="flex:1; object-fit:cover; height:250px; margin-right: 50px;">
+  <img src="https://github.com/Diksfaa/app/blob/main/web/3.jpeg?raw=true" alt="Gambar 5" style="flex:1; object-fit:cover; height:250px; margin-right: 50px;">
+  <img src="https://github.com/Diksfaa/app/blob/main/web/4.jpeg?raw=true" alt="Gambar 6" style="flex:1; object-fit:cover; height:250px;">
+</div>
+
+
+
