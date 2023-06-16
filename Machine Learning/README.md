@@ -7,6 +7,8 @@
 
  - To compile the model we use Adam's optimizer for the updated based on the computed gradients during training, categorical_crossentropy's loss for measures the model's performance during training and provides a quantifiable measure of how well the predictions match the actual labels, and accuracy's metric for easures the proportion of correctly predicted samples to the total number of samples.
 
+- In our training we used 100 epocs for reaching the great results. The results we obtained for accuracy is 0.9812, 0.0549 for loss, 0.7817 for validation accuracy and 0.6775. For making sure our results, we evaluated the results and obtained 0.9751983880996704 for training accuracy and 0.07171811163425446 for training loss.
+
 ## Model Machine Learning
 - Architecture of Mobile Net
   <br><br>
