@@ -10,8 +10,16 @@
 ## Model Machine Learning
 - Architecture of Mobile Net
   <br><br>
-![Contoh Gambar]( https://drive.google.com/uc?export=view&id=18QDrM0nN0tx46O0frSok2TjZYgwik5yl)
-![Contoh Gambar](https://drive.google.com/uc?id=17fyRxV0lMtrUvqe3Lw06yggu_G3503Bt)
-![Contoh Gambar](https://drive.google.com/uc?id=1xI5gKYc91lxVhq59UR8RPttYsgdfR8NZ)
 ![Contoh Gambar](https://drive.google.com/uc?export=view&id=1e38-1kmkxCaHNcqNK155h627XqWarFqN)
+- Model of MobileNet
+  <br><br>
+![Contoh Gambar]( https://drive.google.com/uc?export=view&id=18QDrM0nN0tx46O0frSok2TjZYgwik5yl)
+- Accuracy results of MobileNet
+  <br><br>
+![Contoh Gambar](https://drive.google.com/uc?id=1xI5gKYc91lxVhq59UR8RPttYsgdfR8NZ)
+- Loss results of MobileNet
+  <br><br>
+![Contoh Gambar](https://drive.google.com/uc?id=17fyRxV0lMtrUvqe3Lw06yggu_G3503Bt)
+
+
 
